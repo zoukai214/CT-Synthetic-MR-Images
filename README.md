@@ -15,7 +15,7 @@
 按上图对Unet进行修改，参考unet_model.py文件
 
 ## 数据预处理
-![数据预处理](https://github.com/zoukai214/CT-Synthetic-MR-Images/tree/master/Screenshots/preprocession.)
+![数据预处理](https://github.com/zoukai214/CT-Synthetic-MR-Images/tree/master/Screenshots/preprocession.jpg)
 如上图对CT,MRI数据进行数据预处理
 ## 训练
 train.py
